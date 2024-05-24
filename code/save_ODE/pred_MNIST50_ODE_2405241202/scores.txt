@@ -1,0 +1,85 @@
+Repeat 1 ###########################################################
+All Accuracy 97.34%
+Step 1, Accuracy 94.80%
+Step 2, Accuracy 97.60%
+Step 3, Accuracy 97.20%
+Step 4, Accuracy 97.00%
+Step 5, Accuracy 97.00%
+Step 6, Accuracy 97.80%
+Step 7, Accuracy 98.30%
+Step 8, Accuracy 98.10%
+Step 9, Accuracy 98.00%
+Step 10, Accuracy 97.90%
+Step 11, Accuracy 98.00%
+Step 12, Accuracy 98.90%
+Step 13, Accuracy 97.70%
+Step 14, Accuracy 96.80%
+Step 15, Accuracy 95.00%
+Repeat 2 ###########################################################
+All Accuracy 93.68%
+Step 1, Accuracy 94.80%
+Step 2, Accuracy 97.00%
+Step 3, Accuracy 96.80%
+Step 4, Accuracy 97.20%
+Step 5, Accuracy 97.90%
+Step 6, Accuracy 97.90%
+Step 7, Accuracy 98.10%
+Step 8, Accuracy 97.70%
+Step 9, Accuracy 98.30%
+Step 10, Accuracy 98.10%
+Step 11, Accuracy 97.60%
+Step 12, Accuracy 98.40%
+Step 13, Accuracy 96.80%
+Step 14, Accuracy 69.50%
+Step 15, Accuracy 69.10%
+Repeat 3 ###########################################################
+All Accuracy 97.30%
+Step 1, Accuracy 93.80%
+Step 2, Accuracy 97.30%
+Step 3, Accuracy 96.80%
+Step 4, Accuracy 97.20%
+Step 5, Accuracy 97.20%
+Step 6, Accuracy 97.90%
+Step 7, Accuracy 98.30%
+Step 8, Accuracy 97.80%
+Step 9, Accuracy 98.50%
+Step 10, Accuracy 98.00%
+Step 11, Accuracy 97.60%
+Step 12, Accuracy 98.50%
+Step 13, Accuracy 97.60%
+Step 14, Accuracy 96.70%
+Step 15, Accuracy 96.30%
+Repeat 4 ###########################################################
+All Accuracy 97.73%
+Step 1, Accuracy 96.50%
+Step 2, Accuracy 97.40%
+Step 3, Accuracy 97.10%
+Step 4, Accuracy 98.10%
+Step 5, Accuracy 98.50%
+Step 6, Accuracy 97.70%
+Step 7, Accuracy 98.20%
+Step 8, Accuracy 98.40%
+Step 9, Accuracy 98.00%
+Step 10, Accuracy 98.10%
+Step 11, Accuracy 98.00%
+Step 12, Accuracy 99.00%
+Step 13, Accuracy 97.80%
+Step 14, Accuracy 97.30%
+Step 15, Accuracy 95.80%
+Repeat 5 ###########################################################
+All Accuracy 94.98%
+Step 1, Accuracy 97.00%
+Step 2, Accuracy 98.10%
+Step 3, Accuracy 97.20%
+Step 4, Accuracy 96.40%
+Step 5, Accuracy 97.00%
+Step 6, Accuracy 97.40%
+Step 7, Accuracy 97.90%
+Step 8, Accuracy 96.90%
+Step 9, Accuracy 96.70%
+Step 10, Accuracy 96.30%
+Step 11, Accuracy 95.70%
+Step 12, Accuracy 96.50%
+Step 13, Accuracy 94.70%
+Step 14, Accuracy 82.80%
+Step 15, Accuracy 84.10%

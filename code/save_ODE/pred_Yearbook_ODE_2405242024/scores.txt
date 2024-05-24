@@ -1,0 +1,70 @@
+Repeat 1 ###########################################################
+All Accuracy 93.94%
+Step 1, Accuracy 94.40%
+Step 2, Accuracy 92.76%
+Step 3, Accuracy 93.56%
+Step 4, Accuracy 94.88%
+Step 5, Accuracy 94.36%
+Step 6, Accuracy 97.80%
+Step 7, Accuracy 96.21%
+Step 8, Accuracy 93.14%
+Step 9, Accuracy 90.83%
+Step 10, Accuracy 93.19%
+Step 11, Accuracy 90.16%
+Step 12, Accuracy 92.81%
+Repeat 2 ###########################################################
+All Accuracy 93.47%
+Step 1, Accuracy 94.65%
+Step 2, Accuracy 93.36%
+Step 3, Accuracy 92.28%
+Step 4, Accuracy 93.38%
+Step 5, Accuracy 95.86%
+Step 6, Accuracy 97.65%
+Step 7, Accuracy 96.21%
+Step 8, Accuracy 92.23%
+Step 9, Accuracy 87.99%
+Step 10, Accuracy 91.24%
+Step 11, Accuracy 90.75%
+Step 12, Accuracy 92.16%
+Repeat 3 ###########################################################
+All Accuracy 92.35%
+Step 1, Accuracy 91.81%
+Step 2, Accuracy 91.15%
+Step 3, Accuracy 89.45%
+Step 4, Accuracy 92.76%
+Step 5, Accuracy 95.49%
+Step 6, Accuracy 95.60%
+Step 7, Accuracy 94.79%
+Step 8, Accuracy 92.53%
+Step 9, Accuracy 88.43%
+Step 10, Accuracy 93.67%
+Step 11, Accuracy 90.55%
+Step 12, Accuracy 92.16%
+Repeat 4 ###########################################################
+All Accuracy 93.40%
+Step 1, Accuracy 93.73%
+Step 2, Accuracy 92.35%
+Step 3, Accuracy 92.41%
+Step 4, Accuracy 93.63%
+Step 5, Accuracy 94.36%
+Step 6, Accuracy 96.23%
+Step 7, Accuracy 96.21%
+Step 8, Accuracy 94.05%
+Step 9, Accuracy 90.39%
+Step 10, Accuracy 92.70%
+Step 11, Accuracy 89.17%
+Step 12, Accuracy 93.46%
+Repeat 5 ###########################################################
+All Accuracy 92.77%
+Step 1, Accuracy 92.31%
+Step 2, Accuracy 92.96%
+Step 3, Accuracy 91.25%
+Step 4, Accuracy 92.13%
+Step 5, Accuracy 94.92%
+Step 6, Accuracy 95.29%
+Step 7, Accuracy 96.21%
+Step 8, Accuracy 92.07%
+Step 9, Accuracy 90.83%
+Step 10, Accuracy 93.92%
+Step 11, Accuracy 88.39%
+Step 12, Accuracy 93.79%

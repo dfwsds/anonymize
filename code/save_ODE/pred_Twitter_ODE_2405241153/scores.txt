@@ -1,0 +1,90 @@
+Repeat 1 ###########################################################
+All Accuracy 69.67%
+All AUC 0.7456
+Step 1, Accuracy 92.16%
+Step 2, Accuracy 90.20%
+Step 3, Accuracy 84.31%
+Step 4, Accuracy 56.86%
+Step 5, Accuracy 64.71%
+Step 6, Accuracy 64.71%
+Step 7, Accuracy 56.86%
+Step 8, Accuracy 70.59%
+Step 9, Accuracy 66.67%
+Step 10, Accuracy 47.06%
+Step 11, Accuracy 56.86%
+Step 12, Accuracy 66.67%
+Step 13, Accuracy 72.55%
+Step 14, Accuracy 76.47%
+Step 15, Accuracy 78.43%
+Repeat 2 ###########################################################
+All Accuracy 69.80%
+All AUC 0.737
+Step 1, Accuracy 88.24%
+Step 2, Accuracy 88.24%
+Step 3, Accuracy 82.35%
+Step 4, Accuracy 52.94%
+Step 5, Accuracy 58.82%
+Step 6, Accuracy 66.67%
+Step 7, Accuracy 76.47%
+Step 8, Accuracy 72.55%
+Step 9, Accuracy 72.55%
+Step 10, Accuracy 49.02%
+Step 11, Accuracy 58.82%
+Step 12, Accuracy 68.63%
+Step 13, Accuracy 72.55%
+Step 14, Accuracy 68.63%
+Step 15, Accuracy 70.59%
+Repeat 3 ###########################################################
+All Accuracy 70.98%
+All AUC 0.7254
+Step 1, Accuracy 88.24%
+Step 2, Accuracy 90.20%
+Step 3, Accuracy 78.43%
+Step 4, Accuracy 58.82%
+Step 5, Accuracy 66.67%
+Step 6, Accuracy 64.71%
+Step 7, Accuracy 76.47%
+Step 8, Accuracy 74.51%
+Step 9, Accuracy 70.59%
+Step 10, Accuracy 54.90%
+Step 11, Accuracy 58.82%
+Step 12, Accuracy 68.63%
+Step 13, Accuracy 78.43%
+Step 14, Accuracy 66.67%
+Step 15, Accuracy 68.63%
+Repeat 4 ###########################################################
+All Accuracy 72.16%
+All AUC 0.7349
+Step 1, Accuracy 94.12%
+Step 2, Accuracy 94.12%
+Step 3, Accuracy 86.27%
+Step 4, Accuracy 60.78%
+Step 5, Accuracy 66.67%
+Step 6, Accuracy 68.63%
+Step 7, Accuracy 68.63%
+Step 8, Accuracy 68.63%
+Step 9, Accuracy 66.67%
+Step 10, Accuracy 49.02%
+Step 11, Accuracy 64.71%
+Step 12, Accuracy 70.59%
+Step 13, Accuracy 76.47%
+Step 14, Accuracy 72.55%
+Step 15, Accuracy 74.51%
+Repeat 5 ###########################################################
+All Accuracy 70.07%
+All AUC 0.7304
+Step 1, Accuracy 90.20%
+Step 2, Accuracy 86.27%
+Step 3, Accuracy 84.31%
+Step 4, Accuracy 50.98%
+Step 5, Accuracy 60.78%
+Step 6, Accuracy 66.67%
+Step 7, Accuracy 76.47%
+Step 8, Accuracy 72.55%
+Step 9, Accuracy 72.55%
+Step 10, Accuracy 49.02%
+Step 11, Accuracy 60.78%
+Step 12, Accuracy 70.59%
+Step 13, Accuracy 70.59%
+Step 14, Accuracy 66.67%
+Step 15, Accuracy 72.55%

@@ -1,0 +1,70 @@
+Repeat 1 ###########################################################
+All Accuracy 9.007
+Step 1, Accuracy 10.39
+Step 2, Accuracy 8.494
+Step 3, Accuracy 9.724
+Step 4, Accuracy 9.408
+Step 5, Accuracy 8.853
+Step 6, Accuracy 8.938
+Step 7, Accuracy 9.091
+Step 8, Accuracy 7.741
+Step 9, Accuracy 7.458
+Step 10, Accuracy 8.34
+Step 11, Accuracy 8.268
+Step 12, Accuracy 9.167
+Repeat 2 ###########################################################
+All Accuracy 9.156
+Step 1, Accuracy 10.23
+Step 2, Accuracy 8.548
+Step 3, Accuracy 9.475
+Step 4, Accuracy 9.115
+Step 5, Accuracy 8.506
+Step 6, Accuracy 8.69
+Step 7, Accuracy 10.48
+Step 8, Accuracy 8.514
+Step 9, Accuracy 7.858
+Step 10, Accuracy 8.58
+Step 11, Accuracy 10.01
+Step 12, Accuracy 9.944
+Repeat 3 ###########################################################
+All Accuracy 8.965
+Step 1, Accuracy 10.18
+Step 2, Accuracy 8.487
+Step 3, Accuracy 9.471
+Step 4, Accuracy 9.165
+Step 5, Accuracy 8.601
+Step 6, Accuracy 8.852
+Step 7, Accuracy 9.488
+Step 8, Accuracy 8.173
+Step 9, Accuracy 7.552
+Step 10, Accuracy 8.372
+Step 11, Accuracy 8.634
+Step 12, Accuracy 9.358
+Repeat 4 ###########################################################
+All Accuracy 8.968
+Step 1, Accuracy 10.52
+Step 2, Accuracy 8.444
+Step 3, Accuracy 9.65
+Step 4, Accuracy 9.356
+Step 5, Accuracy 8.766
+Step 6, Accuracy 8.911
+Step 7, Accuracy 8.938
+Step 8, Accuracy 8.026
+Step 9, Accuracy 7.498
+Step 10, Accuracy 8.059
+Step 11, Accuracy 8.21
+Step 12, Accuracy 9.058
+Repeat 5 ###########################################################
+All Accuracy 9.002
+Step 1, Accuracy 10.26
+Step 2, Accuracy 8.543
+Step 3, Accuracy 9.436
+Step 4, Accuracy 9.093
+Step 5, Accuracy 8.566
+Step 6, Accuracy 8.739
+Step 7, Accuracy 9.812
+Step 8, Accuracy 8.112
+Step 9, Accuracy 7.463
+Step 10, Accuracy 8.302
+Step 11, Accuracy 9.116
+Step 12, Accuracy 9.621
