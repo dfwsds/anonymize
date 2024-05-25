@@ -1,11 +1,1 @@
 This is the code for NeurIPS 2024 review.
-
-# 2 Moons Dataset
-
-![2 Moons Dataset](data/CTD/Moons50/dataset_visualization.png)
-_Figure 1: 2 Moons Dataset_
-
-# Extrapolation Result
-
-![Extrapolation result](code/save_ODE/pred_Moons50_ODE_2405241030/figure_extrapolation.gif)
-_Figure 2: Extrapolation Result_
