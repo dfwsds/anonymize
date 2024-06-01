@@ -30,6 +30,6 @@ The results of our experiments demonstrate the effectiveness and efficiency of o
    ![Interpolation Model Prediction over time](code/save_ODE/pred_Moons50_ODE_2405241030/figure_interpolation.gif)
 
 3. **Extrapolation Model:**
-   This figure shows the extrapolation of predictive model parameters in t-SNE space. It visualizes how the model predicts future states beyond the observed domains, indicating its ability to generalize over continuous time.
+   This figure shows the extrapolation of the predictive model. It visualizes how the model predicts future states beyond the observed domains, indicating its ability to generalize over continuous time.
    
    ![Extrapolation Model Prediction over time](code/save_ODE/pred_Moons50_ODE_2405241030/figure_extrapolation.gif)
